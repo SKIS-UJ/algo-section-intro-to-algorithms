@@ -14,7 +14,7 @@ A short overview of the topic.
 - Idea 2
 - Idea 3
 
-![image](../images/template.png)
+![image](images/template.png)
 | Implementation | Usage | Time Average | Time Worst | Space Worst |
 | --- | --- | --- | --- | --- |
 | Option A | Use cases | $O(n\log n)$ | $O(n^2)$ | $O(n)$ |
@@ -33,13 +33,9 @@ int main() {
 ```
 
 ## Basic problems
-- [Problem name](https://...) - solution: [link](../../solutions/file)
-- [Problem name](https://...) - solution: [link](../../solutions/file)
-- [Problem name](https://...) - solution: [link](../../solutions/file)
+- [Problem name](https://...) - solution: [link](solutions/example.cpp)
 
 ## Additional problems
-- [Problem name](https://...)
-- [Problem name](https://...)
 - [Problem name](https://...)
 
 [Go to TOPIC TITLE >](path/to/next.md)
