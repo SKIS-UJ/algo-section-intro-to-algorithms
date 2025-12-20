@@ -14,7 +14,8 @@ A short overview of the topic.
 - Idea 2
 - Idea 3
 
-![image](images/template.png)
+<img src="images/template.png" width="30%">
+
 | Implementation | Usage | Time Average | Time Worst | Space Worst |
 | --- | --- | --- | --- | --- |
 | Option A | Use cases | $O(n\log n)$ | $O(n^2)$ | $O(n)$ |
